@@ -1,0 +1,26 @@
+{
+  "name": "yee-app-sign",
+  "version": "1.0.0",
+  "description": "an app signing sdk between server and client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkYee/app-sign.git"
+  },
+  "keywords": [
+    "App",
+    "Sign"
+  ],
+  "author": "Suley Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinkYee/app-sign/issues"
+  },
+  "homepage": "https://github.com/LinkYee/app-sign#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
